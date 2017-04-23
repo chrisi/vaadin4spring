@@ -10,7 +10,7 @@
 
   <groupId>org.vaadin.spring</groupId>
   <artifactId>parent-pom</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
 
   <name>Vaadin4Spring</name>
@@ -30,7 +30,7 @@
     <url>https://github.com/chrisi/vaadin4spring</url>
     <connection>scm:git:git@github.com:chrisi/vaadin4spring.git</connection>
     <developerConnection>scm:git:git@github.com:chrisi/vaadin4spring.git</developerConnection>
-    <tag>parent-pom-1.0.0</tag>
+    <tag>HEAD</tag>
   </scm>
 
   <developers>
